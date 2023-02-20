@@ -22,7 +22,7 @@ require (
 	github.com/datawire/ambassador v1.6.0
 	github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
 	github.com/digitalocean/godo v1.36.0
-	github.com/dnsimple/dnsimple-go v0.60.0
+	github.com/dnsimple/dnsimple-go v1.0.0
 	github.com/exoscale/egoscale v0.18.1
 	github.com/fatih/structs v1.1.0 // indirect
 	github.com/ffledgling/pdns-go v0.0.0-20180219074714-524e7daccd99
@@ -50,7 +50,7 @@ require (
 	github.com/scaleway/scaleway-sdk-go v1.0.0-beta.7.0.20210127161313-bd30bebeac4f
 	github.com/sirupsen/logrus v1.6.0
 	github.com/smartystreets/gunit v1.3.4 // indirect
-	github.com/stretchr/testify v1.7.0
+	github.com/stretchr/testify v1.8.0
 	github.com/terra-farm/udnssdk v1.3.5 // indirect
 	github.com/transip/gotransip/v6 v6.6.0
 	github.com/ultradns/ultradns-sdk-go v0.0.0-20200616202852-e62052662f60
